@@ -1,24 +1,28 @@
-# Principles of writing consistent, idiomatic CSS
+# একটি নিয়মাফিক এবং অর্থবোধক CSS লিখার নীতিমালাঃ
 
 The following document outlines a reasonable style guide for CSS development.
 These guidelines strongly encourage the use of existing, common, sensible
 patterns. They should be adapted as needed to create your own style guide.
+নিম্নবর্ণিত ডকুমেন্টটিতে CSS ডেভেলপমেন্টের জন্য একটি যুক্তিপূর্ণ স্টাইল গাইড উপস্থাপন করা হয়েছে।
+উল্লিখিত নির্দেশনাসমূহ 
+
+
 
 This is a living document and new ideas are always welcome. Please
 contribute.
 
 
-## Table of contents
+## বিষয়বস্তুর সূচিপত্রঃ
 
-1. [General principles](#general-principles)
-2. [Whitespace](#whitespace)
-3. [Comments](#comments)
-4. [Format](#format)
-5. [Practical example](#example)
+1. [সাধারণ নীতিমালা](#general-principles)
+2. [হোয়াইট স্পেস](#whitespace)
+3. [মন্তব্য](#comments)
+4. [ফরমেট](#format)
+5. [ব্যবহারিক উদাহরণ](#example)
 
-[Acknowledgements](#acknowledgements)
+[কৃতজ্ঞায়](#acknowledgements)
 
-[License](#license)
+[লাইসেন্স](#license)
 
 
 <a name="general-principles"></a>
